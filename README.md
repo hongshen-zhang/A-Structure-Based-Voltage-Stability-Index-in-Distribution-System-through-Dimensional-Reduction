@@ -31,13 +31,3 @@ Please ensure that you have the appropriate version of Matpower installed before
    ```
 
 4. After running, you will obtain the true values and predicted values for voltage stability under multi-node disturbances.
-
-**** Contributions
-
-Contributions of any kind are welcome! If you encounter any issues or have suggestions for improvements, please submit an issue or pull request.
-
-**** License
-
-This project is licensed under the MIT License. Please see the LICENSE file for details.
-
-Thank you for your interest! We hope this project is helpful to you.
